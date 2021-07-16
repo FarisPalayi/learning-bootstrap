@@ -2,8 +2,8 @@
   "name": "Bootstrap",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "FarisPalayi <fariswritecode@gmail.com>",
   "license": "MIT",
-  "private": true,
   "dependencies": {
     "bootstrap": "^5.0.2"
   }
